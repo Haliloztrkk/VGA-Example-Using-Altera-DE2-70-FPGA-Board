@@ -1,1 +1,1 @@
-# VGA Example Using Altera DE2-70 FPGA Board
+# VGA example using the Altera DE2-70 FPGA Board.
