@@ -1,0 +1,16 @@
+<sld_project_info>
+  <project>
+    <hash md5_digest_80b="be2651398bef7447035a"/>
+  </project>
+  <file_info>
+    <file device="EP2C70F896C6" path="VGA.sof" usercode="0xFFFFFFFF"/>
+  </file_info>
+  <sld_infos>
+    <sld_info hpath="PLL:C1" name="C1">
+      <assignment_values>
+        <assignment_value text="QSYS_NAME PLL HAS_SOPCINFO 1 GENERATION_ID 1554708071"/>
+      </assignment_values>
+      <parameters/>
+    </sld_info>
+  </sld_infos>
+</sld_project_info>
